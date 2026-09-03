@@ -8,8 +8,8 @@
     "variance": "variance"
   },
   "devDependencies": {
-    "@variance-authority/cli": "^0.1.0",
-    "@variance-authority/unit-test": "^0.1.0",
+    "@variance-authority/cli": "^0.1.1",
+    "@variance-authority/unit-test": "^0.1.1",
     "jsdom": "^25.0.1",
     "vitest": "^2.1.9"
   }

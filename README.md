@@ -64,7 +64,7 @@ npx variance run
 ```
 1 unchanged, 1 changed
 
-[changed] badge/urgent: 145 pixel(s) differ across 1 region(s); the collection of this subject reported unverified-fonts (warn) ×2, portals-not-resolved (warn), so what was compared may be less than the whole subject
+[changed] badge/urgent: 145 pixels differ across 1 region; the collection of this subject reported unverified-fonts (warn) ×2, portals-not-resolved (warn), so what was compared may be less than the whole subject
 ```
 
 The neutral badge held. One tone changed and only that tone is reported, which
